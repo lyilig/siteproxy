@@ -1,1 +1,1 @@
-web: herokuAddr=lyili.herokuapp.com npm run start
+web: herokuAddr=asdfgzxcvb.herokuapp.com npm run start
